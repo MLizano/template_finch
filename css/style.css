@@ -1,0 +1,20 @@
+
+main{
+   width: 1600px;
+}
+
+.boton{
+   background-color: var(--blanco);
+   color: var(--turquesa);
+   text-decoration: none;
+   border: solid 1px;
+
+   font-size: 14px;
+   width: 200px;
+   height: 20px;
+   padding: 5px 0;
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
